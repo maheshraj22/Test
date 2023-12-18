@@ -1,0 +1,62 @@
+{
+  "Name": "New workflow 26",
+  "Dependencies": {
+    "TruBot.Contracts": "5.1.0",
+    "TruBot.Activities.Contracts": "5.1.0",
+    "TruBot.Activities.Design.Base": "5.1.0",
+    "TruBot.Recorder.Activities": "5.1.0",
+    "Trubot.Excel.Activities": "5.1.0",
+    "TruBot.ActiveDirectoryServices.Activities": "5.1.0",
+    "TruBot.Cockpit.Activities": "5.1.0",
+    "TruBot.Cryptography.Activities": "5.1.0",
+    "TruBot.Database.Activities": "5.1.0",
+    "TruBot.Email.Activities": "5.1.0",
+    "TruBot.FTP.Activities": "5.1.0",
+    "TruBot.GoogleApp.Activities": "5.1.0",
+    "TruBot.SAP.API.Activities": "5.1.0",
+    "TruBot.Web.Activities": "5.1.0",
+    "TruBot.WordDoc.Activities": "5.1.0",
+    "Trubot.Core.Activities": "5.1.0",
+    "TruBot.PDF.Activities": "5.1.0",
+    "TruBot.SalesforceCRM.Activities": "5.1.0",
+    "TruBot.Microsoft365.Activities": "5.1.0",
+    "TruBot.AWS": "5.1.0",
+    "TruBot.AWS.Activities": "5.1.0",
+    "TruBot.QRCode.Activities": "5.1.0",
+    "TruBot.TruCap.Activities": "5.1.0",
+    "TruBot.Python.Activities": "5.1.0"
+  },
+  "Description": "",
+  "Main": "Default.xaml",
+  "SchemaVersion": "5.1.0.18256",
+  "StudioVersion": "5.1.0.18256",
+  "ProjectVersion": "1.0.0.0",
+  "RuntimeOptions": null,
+  "ProjectType": "Workflow",
+  "OutputFileName": "AgentOP.txt",
+  "WorkflowDocumentList": [
+    {
+      "WorkflowName": "Default.xaml"
+    }
+  ],
+  "ExternalReferencesList": [],
+  "CreatedDateTime": "18-12-2023 17:30:33",
+  "ModifiedDateTime": "18-12-2023 17:33:00",
+  "IsDependencyUpdated": true,
+  "NativePlayback": true,
+  "Selector": true,
+  "MainExceptionHandler": "",
+  "ExceptionHandlerList": [],
+  "ProcessCoreItems": [
+    {
+      "FileName": "SecurityInfo.json"
+    }
+  ],
+  "DomSelectorSecureFlag": true,
+  "UsedTemplateType": 0,
+  "UsedTemplateName": "None",
+  "IsDesktopRecorderForIE": true,
+  "ExportedVersion": "1.0.0.0",
+  "AgentDependencies": null,
+  "OtherDependencies": null
+}
